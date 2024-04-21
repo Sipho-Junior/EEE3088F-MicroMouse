@@ -1,0 +1,26 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,CP_Elec_4x3,130.7,-82.0,0.0,top
+C2,0.01uF,CP_Elec_4x3.9,105.2,-83.5,0.0,top
+C3,2.2uF,CP_Elec_4x3,113.5,-84.0,0.0,top
+C4,10uF,CP_Elec_4x3,102.0,-98.8,90.0,top
+C5,10uF,CP_Elec_4x3,133.7,-101.0,0.0,top
+D1,LED,LED_0805_2012Metric,117.0625,-101.5,0.0,top
+D2,LED,LED_0805_2012Metric,108.5625,-101.0,0.0,top
+J1,Conn_02x08_Odd_Even,PinHeader_2x08_P2.54mm_Vertical,117.705,-75.765,90.0,bottom
+J2,Conn_01x02_Socket,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,131.5,-93.45,180.0,top
+JP1,Jumper_2_Bridged,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,122.65,-82.5,0.0,top
+R1,0.4,R_0603_1608Metric,123.675,-92.0,0.0,top
+R2,1k,R_0603_1608Metric,112.5,-103.0,90.0,top
+R3,1k,R_0603_1608Metric,115.675,-105.5,0.0,top
+R4,1.2k,R_0603_1608Metric,114.175,-98.5,0.0,top
+TP1,TestPoint,TestPoint_Pad_1.0x1.0mm,108.0,-90.5,0.0,top
+TP2,TestPoint,TestPoint_Pad_1.0x1.0mm,121.0,-95.5,0.0,top
+TP3,TestPoint,TestPoint_Pad_1.0x1.0mm,104.0,-92.0,0.0,top
+TP4,TestPoint,TestPoint_Pad_1.0x1.0mm,122.5,-88.5,0.0,top
+TP5,TestPoint,TestPoint_Pad_1.0x1.0mm,125.5,-95.5,0.0,top
+TP6,TestPoint,TestPoint_Pad_1.0x1.0mm,129.0,-104.5,0.0,top
+TP7,TestPoint,TestPoint_Pad_1.0x1.0mm,108.5,-96.5,0.0,top
+TP8,TestPoint,TestPoint_Pad_1.0x1.0mm,104.5,-104.5,0.0,top
+TP9,TestPoint,TestPoint_Pad_1.0x1.0mm,129.0,-88.5,0.0,top
+U1,DRV8833PWP,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,114.225,-92.1375,90.0,top
+U2,TP4056,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm,123.525,-101.595,0.0,top
